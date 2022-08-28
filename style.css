@@ -75,6 +75,10 @@ nav ul li a:hover {
         margin: 0;
         padding: 30px;
     }
+    .menu li a:hover {
+        color: black;
+        background-color: rgb(243, 82, 19);
+    }
     .toggle {
         width: 30px;
         height: 30px;
